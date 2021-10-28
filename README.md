@@ -1,6 +1,6 @@
 # My Resume for 2021
 
-This is my resume created with HTML and CSS. Express server with live reloading is being used to auto refresh the browser when files changes are made.
+This is my resume created with HTML and CSS. Express server with live reloading is being used to auto refresh the browser after files changes are made.
 
 ## Project setup
 
