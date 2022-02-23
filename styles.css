@@ -12,6 +12,7 @@
   --resume-height: 29.7cm;
   --primary-color: #4FC08D;
   --secondary-color: #35495E;
+  --light-blue: #61DBFB;
 }
 
 body {
@@ -212,7 +213,7 @@ body {
   top: 14px;
   left: -21px;
   width: 2px;
-  height: 100%;
+  height: 103%;
   background: var(--primary-color);
 }
 
@@ -280,4 +281,8 @@ body {
   height: 100%;
   padding: 0.6rem;
   background: white;
+}
+
+.resume .resume_item.resume_work li {
+  margin-top: 1rem;
 }
