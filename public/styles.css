@@ -281,6 +281,7 @@ body {
   height: 100%;
   padding: 0.6rem;
   background: white;
+  object-fit: contain;
 }
 
 .resume .resume_item.resume_work li {
